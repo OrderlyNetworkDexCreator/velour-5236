@@ -2,7 +2,7 @@
   --oui-font-family: 'Manrope', sans-serif;
   --oui-font-size-base: 16px;
 
-  /* cozy deep gold */
+  /* colors */
   --oui-color-primary: 205 165 82;
   --oui-color-primary-light: 232 198 120;
   --oui-color-primary-darken: 150 115 48;
@@ -11,12 +11,10 @@
   --oui-color-link: 205 165 82;
   --oui-color-link-light: 232 198 120;
 
-  /* warm dark surfaces */
   --oui-color-secondary: 16 16 18;
   --oui-color-tertiary: 24 24 27;
-  --oui-color-quaternary: 36 36 40;
+  --oui-color-quaternary: 15 15 15;
 
-  /* states (slightly warmer tones) */
   --oui-color-danger: 215 85 125;
   --oui-color-danger-light: 238 145 170;
   --oui-color-danger-darken: 175 50 95;
@@ -32,11 +30,9 @@
   --oui-color-warning-darken: 150 115 48;
   --oui-color-warning-contrast: 16 16 16;
 
-  /* fills */
   --oui-color-fill: 20 20 23;
   --oui-color-fill-active: 28 28 31;
 
-  /* cozy grayscale (warmer & softer) */
   --oui-color-base-1: 238 238 240;
   --oui-color-base-2: 208 208 212;
   --oui-color-base-3: 178 178 182;
@@ -81,7 +77,7 @@
   --oui-gradient-neutral-start: 20 20 23;
   --oui-gradient-neutral-end: 36 36 40;
 
-  /* rounding */
+  /* rounded */
   --oui-rounded-sm: 2px;
   --oui-rounded: 4px;
   --oui-rounded-md: 6px;
