@@ -2,88 +2,86 @@
   --oui-font-family: 'Manrope', sans-serif;
   --oui-font-size-base: 16px;
 
-  /* Gold (edel, nicht kitschig) */
-  --oui-color-primary: 206 170 72;
-  --oui-color-primary-light: 235 200 110;
-  --oui-color-primary-darken: 158 130 46;
-  --oui-color-primary-contrast: 12 12 12;
+  /* cozy gold */
+  --oui-color-primary: 196 160 72;
+  --oui-color-primary-light: 225 190 110;
+  --oui-color-primary-darken: 140 105 40;
+  --oui-color-primary-contrast: 18 18 18;
 
-  --oui-color-link: 206 170 72;
-  --oui-color-link-light: 235 200 110;
+  --oui-color-link: 196 160 72;
+  --oui-color-link-light: 225 190 110;
 
-  /* Haupt-Hintergründe (Schwarz + graue Abstufungen) */
-  --oui-color-secondary: 15 15 17;     /* Main black */
-  --oui-color-tertiary: 28 28 31;      /* Panels */
-  --oui-color-quaternary: 44 44 48;    /* leichter Lift */
+  /* warm dark surfaces (soft black / charcoal) */
+  --oui-color-secondary: 18 18 20;   /* main background */
+  --oui-color-tertiary: 26 26 28;    /* panels */
+  --oui-color-quaternary: 38 38 40;  /* softer lift */
 
-  /* Farbstati (leicht angepasst für dunkle UI) */
-  --oui-color-danger: 225 80 120;
-  --oui-color-danger-light: 245 140 165;
-  --oui-color-danger-darken: 180 45 95;
+  /* states */
+  --oui-color-danger: 220 95 130;
+  --oui-color-danger-light: 240 150 175;
+  --oui-color-danger-darken: 185 55 100;
   --oui-color-danger-contrast: 255 255 255;
 
-  --oui-color-success: 45 190 140;
-  --oui-color-success-light: 100 220 175;
-  --oui-color-success-darken: 10 140 105;
+  --oui-color-success: 55 205 150;
+  --oui-color-success-light: 105 230 175;
+  --oui-color-success-darken: 15 150 110;
   --oui-color-success-contrast: 255 255 255;
 
-  --oui-color-warning: 206 170 72;
-  --oui-color-warning-light: 235 200 110;
-  --oui-color-warning-darken: 158 130 46;
-  --oui-color-warning-contrast: 12 12 12;
+  --oui-color-warning: 196 160 72;
+  --oui-color-warning-light: 225 190 110;
+  --oui-color-warning-darken: 140 105 40;
+  --oui-color-warning-contrast: 18 18 18;
 
-  /* Fill für dunkle UI */
-  --oui-color-fill: 20 20 22;
-  --oui-color-fill-active: 28 28 30;
+  /* fills */
+  --oui-color-fill: 22 22 24;
+  --oui-color-fill-active: 30 30 32;
 
-  /* Grautöne fein abgestuft */
-  --oui-color-base-1: 240 240 240;  /* Text */
-  --oui-color-base-2: 200 200 200;
-  --oui-color-base-3: 160 160 165;
-  --oui-color-base-4: 120 120 125;
-  --oui-color-base-5: 90 90 95;
-  --oui-color-base-6: 70 70 74;
-  --oui-color-base-7: 55 55 60;
+  /* cozy grayscale (soft gradients) */
+  --oui-color-base-1: 235 235 237;
+  --oui-color-base-2: 205 205 208;
+  --oui-color-base-3: 175 175 178;
+  --oui-color-base-4: 145 145 150;
+  --oui-color-base-5: 115 115 120;
+  --oui-color-base-6: 85 85 90;
+  --oui-color-base-7: 60 60 64;
   --oui-color-base-8: 40 40 44;
-  --oui-color-base-9: 25 25 28;
-  --oui-color-base-10: 15 15 17;
+  --oui-color-base-9: 26 26 28;
+  --oui-color-base-10: 18 18 20;
 
-  /* Text- und Linienfarbe */
-  --oui-color-base-foreground: 240 240 240;
-  --oui-color-line: 70 70 74;
+  --oui-color-base-foreground: 235 235 237;
+  --oui-color-line: 70 70 72;
 
-  /* Trading Farben */
-  --oui-color-trading-loss: 225 80 120;
+  --oui-color-trading-loss: 220 95 130;
   --oui-color-trading-loss-contrast: 255 255 255;
-  --oui-color-trading-profit: 45 190 140;
+  --oui-color-trading-profit: 55 205 150;
   --oui-color-trading-profit-contrast: 255 255 255;
 
-  /* Gold-Verläufe */
-  --oui-gradient-primary-start: 158 130 46;
-  --oui-gradient-primary-end: 235 200 110;
+  /* gradients (warmer + cozy gold) */
+  --oui-gradient-primary-start: 140 105 40;
+  --oui-gradient-primary-end: 225 190 110;
 
-  --oui-gradient-secondary-start: 44 44 48;
-  --oui-gradient-secondary-end: 15 15 17;
+  --oui-gradient-secondary-start: 38 38 40;
+  --oui-gradient-secondary-end: 18 18 20;
 
-  --oui-gradient-success-start: 10 140 105;
-  --oui-gradient-success-end: 100 220 175;
+  --oui-gradient-success-start: 15 150 110;
+  --oui-gradient-success-end: 105 230 175;
 
-  --oui-gradient-danger-start: 180 45 95;
-  --oui-gradient-danger-end: 245 140 165;
+  --oui-gradient-danger-start: 185 55 100;
+  --oui-gradient-danger-end: 240 150 175;
 
-  --oui-gradient-brand-start: 235 200 110;
-  --oui-gradient-brand-end: 206 170 72;
-  --oui-gradient-brand-stop-start: 4%;
-  --oui-gradient-brand-stop-end: 92%;
-  --oui-gradient-brand-angle: 17deg;
+  --oui-gradient-brand-start: 225 190 110;
+  --oui-gradient-brand-end: 196 160 72;
+  --oui-gradient-brand-stop-start: 6%;
+  --oui-gradient-brand-stop-end: 90%;
+  --oui-gradient-brand-angle: 16deg;
 
-  --oui-gradient-warning-start: 158 130 46;
-  --oui-gradient-warning-end: 235 200 110;
+  --oui-gradient-warning-start: 140 105 40;
+  --oui-gradient-warning-end: 225 190 110;
 
-  --oui-gradient-neutral-start: 25 25 28;
-  --oui-gradient-neutral-end: 44 44 48;
+  --oui-gradient-neutral-start: 22 22 24;
+  --oui-gradient-neutral-end: 38 38 40;
 
-  /* Rounding */
+  /* rounding */
   --oui-rounded-sm: 2px;
   --oui-rounded: 4px;
   --oui-rounded-md: 6px;
@@ -92,7 +90,7 @@
   --oui-rounded-2xl: 16px;
   --oui-rounded-full: 9999px;
 
-  /* Spacing */
+  /* spacing */
   --oui-spacing-xs: 20rem;
   --oui-spacing-sm: 22.5rem;
   --oui-spacing-md: 26.25rem;
