@@ -24,7 +24,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "https://discord.com/invite/velour-crypto",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/velour_crypto",
   "VITE_SEO_SITE_NAME": "",
   "VITE_SEO_SITE_DESCRIPTION": "",
   "VITE_SEO_SITE_URL": "https://dex.velour-crypto.com",
