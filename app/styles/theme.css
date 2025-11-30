@@ -15,9 +15,9 @@
   --oui-color-tertiary: 150 150 150;
   --oui-color-quaternary: 90 90 90;
 
-  --oui-color-danger: 245 97 139;
-  --oui-color-danger-light: 255 140 170;
-  --oui-color-danger-darken: 200 60 100;
+  --oui-color-danger: 165 42 42;
+  --oui-color-danger-light: 165 42 42;
+  --oui-color-danger-darken: 165 42 42;
   --oui-color-danger-contrast: 255 255 255;
 
   --oui-color-success: 41 233 169;
@@ -47,7 +47,7 @@
   --oui-color-base-foreground: 255 255 255;
   --oui-color-line: 50 50 50;
 
-  --oui-color-trading-loss: 245 97 139;
+  --oui-color-trading-loss: 165 42 42;
   --oui-color-trading-loss-contrast: 255 255 255;
   --oui-color-trading-profit: 41 233 169;
   --oui-color-trading-profit-contrast: 255 255 255;
