@@ -1,5 +1,5 @@
 :root {
-  --oui-font-family: 'Poppins', sans-serif;
+  --oui-font-family: 'Manrope', sans-serif;
   --oui-font-size-base: 16px;
 
   /* colors */
@@ -20,9 +20,9 @@
   --oui-color-danger-darken: 180 40 50;
   --oui-color-danger-contrast: 255 255 255;
 
-  --oui-color-success: 32 178 170;
-  --oui-color-success-light: 90 200 190;
-  --oui-color-success-darken: 20 140 130;
+  --oui-color-success: 83 161 73;
+  --oui-color-success-light: 144 205 101;
+  --oui-color-success-darken: 83 161 73;
   --oui-color-success-contrast: 255 255 255;
 
   --oui-color-warning: 255 165 0;
@@ -95,6 +95,6 @@
 }
 
 html, body {
-  font-family: 'Poppins', sans-serif !important;
+  font-family: 'Manrope', sans-serif !important;
   font-size: 16px !important;
 }

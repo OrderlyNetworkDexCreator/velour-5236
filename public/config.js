@@ -9,7 +9,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DEFAULT_CHAIN": "900900900",
   "VITE_PRIVY_APP_ID": "cmiksenel007gie0d6vprp9k9",
   "VITE_PRIVY_LOGIN_METHODS": "email,passkey,twitter,google",
-  "VITE_PRIVY_TERMS_OF_USE": "",
+  "VITE_PRIVY_TERMS_OF_USE": "https://velour-crypto.com/terms-of-service/",
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
